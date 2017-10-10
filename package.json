@@ -1,0 +1,20 @@
+{
+  "name": "crud-node-redis",
+  "version": "1.0.0",
+  "description": "Simples aplicação de controle de usuários",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaucia86/crud-node-redis.git"
+  },
+  "author": "Glaucia Lemos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/crud-node-redis/issues"
+  },
+  "homepage": "https://github.com/glaucia86/crud-node-redis#readme"
+}
