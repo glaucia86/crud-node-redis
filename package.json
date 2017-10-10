@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/glaucia86/crud-node-redis/issues"
   },
-  "homepage": "https://github.com/glaucia86/crud-node-redis#readme"
+  "homepage": "https://github.com/glaucia86/crud-node-redis#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "redis": "^2.8.0"
+  }
 }
